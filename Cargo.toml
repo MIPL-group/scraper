@@ -16,7 +16,7 @@ readme = "README.md"
 
 [dependencies]
 cssparser = "0.27"
-ego-tree = { git = "https://github.com/MIPL-group/ego-tree", branch = "master" }
+ego-tree = { git = "https://github.com/MIPL-group/ego-tree" }
 html5ever = "0.26"
 matches = "0.1.9"
 selectors = "0.22.0"
