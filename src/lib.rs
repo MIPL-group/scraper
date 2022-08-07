@@ -140,6 +140,8 @@ extern crate html5ever;
 #[macro_use]
 extern crate matches;
 
+pub extern crate ego_tree;
+
 pub use crate::element_ref::ElementRef;
 pub use crate::html::Html;
 pub use crate::node::Node;
